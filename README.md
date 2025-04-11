@@ -1,8 +1,8 @@
-# TalkToAI 🤖💬
+# TalkToAI
 
 A modern, lightweight AI chatbot interface built with **React**, **TypeScript**, and **Vite** — powered by OpenAI's GPT models via [OpenRouter](https://openrouter.ai).
 
-## 🚀 Features
+##Features
 
 - Interactive chat UI using React
 - Markdown support for bot responses
@@ -13,7 +13,7 @@ A modern, lightweight AI chatbot interface built with **React**, **TypeScript**,
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### 1. **Clone the repository**
 
